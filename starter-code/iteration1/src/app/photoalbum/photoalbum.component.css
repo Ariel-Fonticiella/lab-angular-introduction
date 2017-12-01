@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+  padding-right: 10px;
+}
